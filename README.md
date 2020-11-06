@@ -11,7 +11,7 @@ Below you will find the instructions of this exercise.
 Keep in mind that:
 
 - You do not have to find the right solution, we are interested in the way you'll conceive your program.
-- You should give the exercise a limited amount of time: **2 to 3 hours** would be good enough (you have one week maximum to return the assignment).
+- You should give the exercise a limited amount of time: **2 to 3 hours** should be good enough (you have one week maximum to return the assignment).
 - Keep in mind your code quality will be appreciated.
 
 ## Instructions
